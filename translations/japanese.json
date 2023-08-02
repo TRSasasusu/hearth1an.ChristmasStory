@@ -104,22 +104,22 @@
 		"ERNESTO_START_3": "やはり始めるにはお前の光が必要だ！",
 
 		// Esker ship
-		"ESKER_SHIP_1": "I don't remember the last time I was in a spaceship...",
-		"ESKER_SHIP_2": "Alright, we're here! Let's go celebrate!",
-		"ESKER_SHIP_3": "I'll let you know when we land near the Village.",
-		"ESKER_SHIP_8": "You even brought your chair? Really, Esker?",
-		"ESKER_SHIP_9": "Yes! What, you wanted me to leave it on the Attlerock?",
-		"ESKER_SHIP_10": "No way.",
-		"ESKER_SHIP_4": "Let's go! Merry Christmas!",
-		"ESKER_SHIP_5": "So, the flight is over?",
-		"ESKER_SHIP_7": "Yes, we're here! Let's go celebrate!",
-		"ESKER_SHIP_6": "No, but I'll tell you when we're about to land.",
+		"ESKER_SHIP_1": "最後に宇宙船に乗ったときをもう覚えていないよ…。",
+		"ESKER_SHIP_2": "よし、着いた！お祝いに行こう！",
+		"ESKER_SHIP_3": "村の近くに着陸したら教えるよ。",
+		"ESKER_SHIP_8": "椅子も持ってきたのか？正気か、Esker？",
+		"ESKER_SHIP_9": "ああ！まさか、私にコイツをアトルロックへ置いていけと？",
+		"ESKER_SHIP_10": "何でもない。",
+		"ESKER_SHIP_4": "さあ行こう！メリークリスマス！",
+		"ESKER_SHIP_5": "それで、飛行は終わったのか？",
+		"ESKER_SHIP_7": "ああ、着いた！お祝いに行こう！",
+		"ESKER_SHIP_6": "いや、でも着陸したら教えるよ。",
 
 		// Esker start
-		"ESKER_START_1": "Hey-hey! So you're here to bring me home, right?",
-		"ESKER_START_2": "Wait, what? How did you know?",
+		"ESKER_START_1": "やあやあ！それで、私を木の炉辺へ連れて行ってくれるんだな？",
+		"ESKER_START_2": "ちょっと待って、何？なんで知ってるんだ？",
 		// I change this line since Esker isn't in the loop yet so maybe Slate didn't say it to the player this loop
-		"ESKER_START_3": "Well... I get lonely up here, so I listen in on the Village with my signalscope a lot... I overheard Slate talking about it.",
+		"ESKER_START_3": "えっと…私はここに独りじゃないか？だから、その、シグナルスコープでよく村の様子を聞いているんだ。…そして、Slateがそれを話してるのを耳にしたんだ。",
 		"ESKER_START_4": "Oh, I see... You scare me sometimes, Esker.",
 		"ESKER_START_5": "So... what's next? Are we going home?",
 		"ESKER_START_6": "Yes! I need you to celebrate Christmas. Let's go!",
@@ -148,7 +148,9 @@
 		"FELDSPAR_SHIP_3": "Sure! I'll let you know.",
 		"FELDSPAR_SHIP_4": "Yay! Thanks for the ride. Let's go celebrate!",
 		"FELDSPAR_SHIP_5": "Are we home yet, hatchling?",
+
 		"FELDSPAR_SHIP_6": "Nope, not yet. I'll let you know when we're there.",
+
 
 		// Feldspar start
 		"FELDSPAR_START_1": "Hey bud! I'm glad you found me. Can you help me escape from this cursed place?",
