@@ -291,19 +291,19 @@
 		"HORNFELS_FINAL_26": "お前がしてくれたすべてに感謝しているよ、友よ。",
 
 		// Marl
-		"MARL_START_1": "Hey! You see that tree? <![CDATA[<i>]]>That's my work.<![CDATA[</i>]]> Impressive, eh?",
-		"MARL_START_2": "Yes, the tree is very impressive.",
-		"MARL_START_3": "That's what I'm talking about! Good luck in space!",
-		"MARL_START_4": "Good luck on your flight. Your mission is very important.",
-		"MARL_START_5": "Marl, Tektite is asking for your help. There's a bramble seed on Timber Hearth and it's gro...",
-		"MARL_START_6": "<![CDATA[<i>]]>GROWING FAST?!<![CDATA[</i>]]>",
-		"MARL_START_7": "We need to cut down this bush as soon as possible! I'm going to Tektite! Let's meet there!",
+		"MARL_START_1": "おい！あのツリーが見えるな？<![CDATA[<i>]]>あれは私の仕事によるものだ<![CDATA[</i>]]>。素晴らしいだろう？",
+		"MARL_START_2": "ああ、あのツリーはとても印象的だ。",
+		"MARL_START_3": "私が話したかったのはこれだけだ！宇宙でも頑張ってくれ！",
+		"MARL_START_4": "お前さんの飛行の幸運を祈るよ。その使命はとても重要だからな。",
+		"MARL_START_5": "Marl、Tektiteがあなたの助けを求めている。木の炉辺に闇のイバラの種があって、それが成長…",
+		"MARL_START_6": "<![CDATA[<i>]]>素早く成長している？！？！<![CDATA[</i>]]>",
+		"MARL_START_7": "すぐにでもそのツタを切り倒さなくては！Tektiteのところへ行ってくる！そこでまた会おう！",
 
 		// Marl final
-		"MARL_FINAL_1": "No way! Everyone is here, woah. Thank you for bringing them back!",
-		"MARL_FINAL_2": "Sure! That was fun.",
-		"MARL_FINAL_3": "I can imagine. Let's ask Hornfels what we're doing next.",
-		"MARL_FINAL_4": "As I said, you better ask Hornfels.",
+		"MARL_FINAL_1": "とんでもない！みんなここにいるよ、わあ。みんな連れ帰ってくれてありがとう！",
+		"MARL_FINAL_2": "ああ！面白かったよ。",
+		"MARL_FINAL_3": "想像してみるよ。次に何をするかHornfelsに聞いたらどうだろう？",
+		"MARL_FINAL_4": "さっき言ったように、Hornfelsに聞いてみるといい。",
 
 		// Player NPC ship
 		"NPC_PLAYER_SHIP_1": "Let me see you fly. Are you a better pilot than me or not?",
