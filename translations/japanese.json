@@ -134,36 +134,36 @@
 		"ESKER_TREE_1": "メリークリスマス！お前は優秀なパイロットになったものだ。",
 		"ESKER_TREE_2": "ありがとう！私でも自分は結構上手くやれてるとわかってる。",
 		"ESKER_TREE_3": "Jumboについて何か知ってる？",
-		"ESKER_TREE_4": "ああ。お前はとても謙虚でもあるね。",
+		"ESKER_TREE_4": "あー。お前はとても謙虚でもあるね。",
 		"ESKER_TREE_5": "誰？なんて？",
 		"ESKER_TREE_6": "実は…いや、気にしないで…。",
 
 		// Feldspar note
-		"FELDSPAR_NOTE": "Okay, I'm leaving this damned place now. I'm not sure if I'll succeed without my ship, but at least I'll try. My harmonica repeater should help to find this note. \n  \n <![CDATA[<i>]]>- Feldspar<![CDATA[</i>]]>",
+		"FELDSPAR_NOTE": "さあ、今こそこの忌まわしい場所を離れるときだ。船なしで上手くいくかはわからないが、それでも挑戦してみようと思う。このメモを見つけられるように私のハーモニカを録音した機械を残しておく。\n  \n <![CDATA[<i>]]>- Feldspar<![CDATA[</i>]]>",
 
 		// Feldspar ship
-		"FELDSPAR_SHIP_1.1": "Wow! I think that's the angler I followed! Not sure if it's dangerous since it's so small.",
-		"FELDSPAR_SHIP_1": "Nice ship, by the way! I'll ask Slate to make a new one for me like this. Let me know when we land near the Village, okay?",
-		"FELDSPAR_SHIP_2": "We're already home, welcome back!",
-		"FELDSPAR_SHIP_3": "Sure! I'll let you know.",
-		"FELDSPAR_SHIP_4": "Yay! Thanks for the ride. Let's go celebrate!",
-		"FELDSPAR_SHIP_5": "Are we home yet, hatchling?",
+		"FELDSPAR_SHIP_1.1": "うわ！あれは私がついて行ったアンコウだ！小さめだから危険かどうかはわからないな。",
+		"FELDSPAR_SHIP_1": "ところで、素敵な船だな！Slateに頼んで私もこんな感じの新しい船を作ってもらおうと思う。村の近くに着陸したら教えてくれるな？",
+		"FELDSPAR_SHIP_2": "もう家に着いた、おかえり！",
+		"FELDSPAR_SHIP_3": "もちろん！知らせるよ。",
+		"FELDSPAR_SHIP_4": "イェイ！乗ってくれてありがとう。お祝いに行こう！",
+		"FELDSPAR_SHIP_5": "もう家に着いたのか、ひよっ子？",
 
-		"FELDSPAR_SHIP_6": "Nope, not yet. I'll let you know when we're there.",
+		"FELDSPAR_SHIP_6": "いや、まだだ。着いたら教えるよ。",
 
 
 		// Feldspar start
-		"FELDSPAR_START_1": "Hey bud! I'm glad you found me. Can you help me escape from this cursed place?",
-		"FELDSPAR_START_2": "Why did you leave the anglerfish skeleton? It was safe there!",
-		"FELDSPAR_START_3": "Sure! Let's go.",
-		"FELDSPAR_START_4": "Don't go anywhere, I'll bring the ship closer.",
-		"FELDSPAR_START_5": "I'm so sorry... but the ship is not functioning... we're stuck here.",
-		"FELDSPAR_START_6": "It was relaxing there, but eventually I was up for more adventuring. I saw a little anglerfish and thought it could help me fly away from Dark Bramble, so I followed it and... well... then I ended up here...",
-		"FELDSPAR_START_7": "Pure luck! I was so scared that I wasn't able to move, but it seems like I was so still and quiet that the anglerfish could not see me. Ha-ha! Another mystery solved!",
-		"FELDSPAR_START_8": "Wow, yeah that really is pure luck!",
-		"FELDSPAR_START_9": "So... can you get us out of here?",
-		"FELDSPAR_START_10": "Don't go anywhere? Ha-ha.",
-		"FELDSPAR_START_11": "Oh my... what are we gonna do now?",
+		"FELDSPAR_START_1": "やあひよっ子！私を見つけてくれて嬉しいよ。この呪われた場所から脱出するのを手伝ってくれないか？",
+		"FELDSPAR_START_2": "どうしてアンコウの骨から去ってしまったんだ？あそこは安全だったのに！",
+		"FELDSPAR_START_3": "もちろん！さあ行こう。",
+		"FELDSPAR_START_4": "どこにも行かないで。船を近づけるから。",
+		"FELDSPAR_START_5": "すまない…もう私の船は動かないんだ…私たちはここから出ることはできない。",
+		"FELDSPAR_START_6": "あそこはくつろぐにはいい場所だったが、結局また冒険したくなったんだ。小さなアンコウを見かけて闇のイバラから脱出するのに役立つと思った。だから追いかけて、そして…そう…ここに辿り着いたんだ…。",
+		"FELDSPAR_START_7": "ツイてない！怖くて動けなかったんだが、どうやら静かすぎてアンコウには私を見つけられなかったらしい。ははは！1つ謎が解けたな！",
+		"FELDSPAR_START_8": "うわあ、いや、それは本当にツイてない！",
+		"FELDSPAR_START_9": "それで…ここから出してくれないか？",
+		"FELDSPAR_START_10": "どこにも行かないで？ははは…。",
+		"FELDSPAR_START_11": "あぁ…ここからどうする？",
 
 		// Feldspar tree
 		"FELDSPAR_TREE_1": "Merry Christmas! I have to admit, I really missed the Village.",
