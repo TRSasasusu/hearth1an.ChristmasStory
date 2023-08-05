@@ -618,19 +618,19 @@
 		"TEPHRA_START_9": "宇宙飛行士さん、頑張って！",
 
 		// Arkose
-		"ARKOSE_START_1": "<![CDATA[<i>]]>Watch out!<![CDATA[</i>]]>",
-		"ARKOSE_START_2": "Hey! Having fun, huh?",
-		"ARKOSE_START_3": "Yeah! This is much better than throwing rocks into ghost matter!",
-		"ARKOSE_START_4": "Indeed! See you later.",
+		"ARKOSE_START_1": "<![CDATA[<i>]]>気をつけて！<![CDATA[</i>]]>",
+		"ARKOSE_START_2": "やあ！楽しそうだね？",
+		"ARKOSE_START_3": "うん！幽霊物質に石を投げ込むよりもずっといい！",
+		"ARKOSE_START_4": "それはそうだ！またね。",
 
 		// Rutile
-		"RUTILE_START_1": "Gotta say I don't remember a time we had so much snow on Timber Hearth.",
-		"RUTILE_START_2": "Yep, me neither.",
-		"RUTILE_START_3": "I like it to be honest. The season is really bringing folks together. By the way, could you go check on Tektite? Haven't heard from them in a while.",
-		"RUTILE_START_4": "They went to the crater near the Village. You can find it easily: just look for the smoke.",
-		"RUTILE_START_5": "Sure, I'll visit them. Don't miss my launch!",
-		"RUTILE_START_6": "Sure. I look forward to seeing you take-off!",
-		"RUTILE_START_7": "And please, don't blow up your ship!<![CDATA[<Pause=2>]]> Especially with your new Little Scout improvement.",
+		"RUTILE_START_1": "木の炉辺にこれほど雪が積もったときのことはもう覚えていないよ。",
+		"RUTILE_START_2": "ああ、私もだ。",
+		"RUTILE_START_3": "正直に言うと好きだな。この季節になると本当に皆が集まってくれる。ところで、Tektiteのことを見に行ってもらえないか？しばらく連絡がないんだ。",
+		"RUTILE_START_4": "Tektiteは村の近くのクレーターに向かったんだ。簡単に見つけられる:煙を探せばいいだけだ。",
+		"RUTILE_START_5": "もちろん、訪ねることにするよ。打ち上げを見逃さないで！",
+		"RUTILE_START_6": "ああ。お前の離陸を楽しみにしてるよ！",
+		"RUTILE_START_7": "それとお願いだから、探査艇は爆破しないでくれ！<![CDATA[<Pause=2>]]>特に、リトルスカウトが新しく改良されたからね。",
 
 		// Gneiss
 		"GNEISS_START_1": "Another traveler is leaving us for outer space! What can I do for you?",
