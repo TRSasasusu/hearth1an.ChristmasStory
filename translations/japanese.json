@@ -568,24 +568,24 @@
 
 		// Spinel
 
-		"SPINEL_START_1": "Fishing song, fishing song<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]> when it's ice it feels so wrong.",
-		"SPINEL_START_2": "How is it going, Spinel?",
-		"SPINEL_START_3": "How is it going?<![CDATA[<Pause=2>]]> Are you kidding me?<![CDATA[<Pause=2>]]> I can't catch any fish like this! It's horrible!",
-		"SPINEL_START_4": "Why don't you stay closer to waterfall then, where there's actually running water?",
-		"SPINEL_START_5": "Wait, that's actually a good idea! Thank you!",
-		"SPINEL_START_6": "You're welcome. Do you want to come with us and celebrate Christmas?",
-		"SPINEL_START_7": "Oh, no, thanks, I'm good.",
-		"SPINEL_START_8": "Alright, I'll try to get closer to that waterfall.",
-		"SPINEL_START_9": "I bet everything will be fine on your first flight! Have fun in space!",
-		"SPINEL_START_10": "Wow! <![CDATA[<i>]]>Much better<![CDATA[</i>]]> now!",
+		"SPINEL_START_1": "釣りの詩、釣りの詩<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]>.<![CDATA[<Pause=1>]]>凍っているととても気分が悪い。",
+		"SPINEL_START_2": "調子はどう、Spinel？",
+		"SPINEL_START_3": "調子はどう？<![CDATA[<Pause=2>]]>ふざけてるのか？<![CDATA[<Pause=2>]]>これじゃあ魚なんて釣れやしない！あまりにひどい！",
+		"SPINEL_START_4": "それなら水が流れている滝の近くに行ってみたらどうだろう？",
+		"SPINEL_START_5": "待て、それはいい考えだ！ありがとう！",
+		"SPINEL_START_6": "どういたしまして。クリスマスのお祝いにも来てくれるかな？",
+		"SPINEL_START_7": "ああ、いや、ありがとう。私はいいかな。",
+		"SPINEL_START_8": "よし、滝の近くに行ってみよう。",
+		"SPINEL_START_9": "お前の最初の飛行がうまくいくことに今日の獲物のすべてを賭けよう！宇宙を楽しんで！",
+		"SPINEL_START_10": "おおぉ！<![CDATA[<i>]]>かなりよくなったぞ！<![CDATA[</i>]]>",
 
 
-		"SPINEL_ONE_LOOP_RESPONSE": "Yes, I know that you can't catch any fish like that, but I already suggested you to try get closer to waterfall, remember?",
-		"SPINEL_ONE_LOOP_DONE": "No, you just came up, what are you talking about?",
+		"SPINEL_ONE_LOOP_RESPONSE": "そうだな、あなたがまったく魚を獲れていないのを知ってる。でも私は既に滝に近づいてはどうかという提案をしたのだけど、覚えてる？",
+		"SPINEL_ONE_LOOP_DONE": "いや、今初めて聞いたのだが、何を話してるんだ？",
 
-		"SPINEL_TWO_LOOP_RESPONSE": "Just get closer to the waterfall as I said before...",
-		"SPINEL_TWO_LOOP_DONE": "Before?",
-		"SPINEL_TWO_LOOP_REPLY": "Nevermind.",
+		"SPINEL_TWO_LOOP_RESPONSE": "滝に近づけばいい、前言ったみたいに…。",
+		"SPINEL_TWO_LOOP_DONE": "前？",
+		"SPINEL_TWO_LOOP_REPLY": "気にしないで。",
 
 
 		// Tephra
