@@ -546,25 +546,25 @@
 
 		// Galena
 
-		"GALENA_START_1": "So you are going to bring all the travelers back home?",
-		"GALENA_START_2": "Yes, they will all be here soon.",
-		"GALENA_START_3": "I'm sorry that I tried to destroy your snowian.",
-		"GALENA_START_4": "What is that snowian made of?",
-		"GALENA_START_5": "It's unbreakable! When the adults were clearing out the rubble from the inactive geysers, Tephra found some <![CDATA[<i>]]>cool rocks<![CDATA[</i>]]>!",
-		"GALENA_START_6": "We stuck a snowian on top of the rocks and got this effect. It is soooo cool, isn't it?",
-		"GALENA_START_7": "It's very clever.",
-		"GALENA_START_8": "Good luck with it! We all miss them so much.",
-		"GALENA_START_9": "Thank you!",
-		"GALENA_START_10": "Mica will never break it, but it is still funny to see their attempts.",
+		"GALENA_START_1": "旅人たちみんなを連れ帰ってくれるの？",
+		"GALENA_START_2": "ああ、すぐに皆帰ってくる。",
+		"GALENA_START_3": "君の雪だるまを壊そうとしてみてすまなかった。",
+		"GALENA_START_4": "この雪だるまは何からできているんだ？",
+		"GALENA_START_5": "壊れないんだよ！大人たちが活動してない間欠泉から瓦礫を片付けてたとき、Tephraが<![CDATA[<i>]]>かっこいい岩<![CDATA[</i>]]>を見つけたんだ！",
+		"GALENA_START_6": "その岩の上に雪だるまをのせてみたらそうなったんだ。すごくいいでしょ？",
+		"GALENA_START_7": "とても賢いね。",
+		"GALENA_START_8": "頑張ってね！みんな彼らに会いたいと思ってる。",
+		"GALENA_START_9": "ありがとう！",
+		"GALENA_START_10": "Micaには絶対に壊せないけど、それでもどうにか壊そうとしてるのを見るのは楽しい。",
 
 		// Moraine
 
-		"MORAINE_START_1": "<![CDATA[<i>]]>Hey! Watch out!<![CDATA[</i>]]>",
-		"MORAINE_START_2": "Hey! You're not listening to the travelers anymore?",
-		"MORAINE_START_3": "Signal all the same! Always!",
-		"MORAINE_START_4": "Oh yeah, I was listening to Riebeck and their signal was gone for a few minutes! I don't know what happened to them.",
-		"MORAINE_START_5": "Alright, I'll visit them to see what's up.",
-		"MORAINE_START_6": "<![CDATA[<i>]]>Watch out!<![CDATA[</i>]]>",
+		"MORAINE_START_1": "<![CDATA[<i>]]>ああ！気をつけて！<![CDATA[</i>]]>",
+		"MORAINE_START_2": "やあ！もう旅人たちの音楽は聞かないのかい？",
+		"MORAINE_START_3": "信号はいつも同じ！ずっと！",
+		"MORAINE_START_4": "そうそう、Riebeckの音楽を聞いてたら、少しの間信号が消えたんだ！何があったんだろう。",
+		"MORAINE_START_5": "よし、Riebeckを訪ねて何があったか見てこよう。",
+		"MORAINE_START_6": "<![CDATA[<i>]]>気をつけて！<![CDATA[</i>]]>",
 
 		// Spinel
 
