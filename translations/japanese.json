@@ -633,13 +633,13 @@
 		"RUTILE_START_7": "それとお願いだから、探査艇は爆破しないでくれ！<![CDATA[<Pause=2>]]>特に、リトルスカウトが新しく改良されたからね。",
 
 		// Gneiss
-		"GNEISS_START_1": "Another traveler is leaving us for outer space! What can I do for you?",
-		"GNEISS_START_2": "I'm actually going out to bring all the travelers back home.",
-		"GNEISS_START_3": "Yep. I just wanted to say good bye first.",
-		"GNEISS_START_4": "Oh really? That's so nice! Finally our orchestra will be playing at full strength!",
-		"GNEISS_START_5": "It will!",
-		"GNEISS_START_6": "Alright, hatchling! Take care of yourself up in space!",
-		"GNEISS_START_7": "Please, take care of yourself up in space!",
+		"GNEISS_START_1": "新たな旅人が宇宙に出るときが来た！私に何かしてほしいことがあるのかい？",
+		"GNEISS_START_2": "実は旅人たち全員を連れ戻すつもりなんだ。",
+		"GNEISS_START_3": "いや、出発前にさよならを言いたかっただけだ。",
+		"GNEISS_START_4": "え、本当に？それはいいね！ついに私らのオーケストラによる全力の演奏が聞けるじゃないか！",
+		"GNEISS_START_5": "そうなるね！",
+		"GNEISS_START_6": "よし、ひよっ子！宇宙に出たら体に気をつけろよ！",
+		"GNEISS_START_7": "それじゃあ、宇宙に出たら体に気をつけろよ！",
 
 		// Tuff (cave)
 		"TUFF_START_1": "おやおや！もう飛び立ったんじゃなかったのか？",
