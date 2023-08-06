@@ -687,19 +687,19 @@
 		"MICA_START_22": "えっと、試したんだ！あれは不死身だよ。",
 
 		// Slate final
-		"SLATE_FINAL_1": "You did very well, hatchling!",
-		"SLATE_FINAL_2": "All the travelers are back, and I can already feel the magical Christmas spirit!",
-		"SLATE_FINAL_3": "I'm glad all our friends are here.",
-		"SLATE_FINAL_4": "What should I do next?",
-		"SLATE_FINAL_5": "Sure! This probably wouldn't have happened without your help.",
-		"SLATE_FINAL_6": "You should ask Hornfels, but I'm pretty sure we're almost ready.",
-		"SLATE_FINAL_7": "Alright.",
-		"SLATE_FINAL_8": "See ya!",
-		"SLATE_FINAL_9": "Huh?",
-		"SLATE_FINAL_10": "Nothing.",
+		"SLATE_FINAL_1": "よくやってくれた、ひよっ子！",
+		"SLATE_FINAL_2": "旅人たちは全員戻ってきて、既に魔法のクリスマスの雰囲気を感じている！",
+		"SLATE_FINAL_3": "友人たちが皆ここにいてくれて私も嬉しいよ。",
+		"SLATE_FINAL_4": "次に何をすればいい？",
+		"SLATE_FINAL_5": "ああ！お前の助けがなかったらおそらく成し遂げられなかっただろう。",
+		"SLATE_FINAL_6": "Hornfelsに聞くといいだろう。だが、もう準備はほとんど整っていると思う。",
+		"SLATE_FINAL_7": "わかった。",
+		"SLATE_FINAL_8": "それじゃあ！",
+		"SLATE_FINAL_9": "ふーん？",
+		"SLATE_FINAL_10": "何でもない。",
 
 		// Slate note
-		"SLATE_NOTE_1": "Hey, sleepyhead! Find me in the Village when you wake up, we need to talk. \n <![CDATA[<i>]]>- Slate<![CDATA[</i>]]>",
+		"SLATE_NOTE_1": "やあ、寝ぼすけ！目が覚めたら村で私を探してくれ、話がある。\n <![CDATA[<i>]]>-Slate<![CDATA[</i>]]>",
 
 		// Solanum response
 		"SOLANUM_WALL_1": "SOLANUM: This encounter feels <![CDATA[<i>]]>VERY special<![CDATA[</i>]]>.",
