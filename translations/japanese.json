@@ -702,16 +702,16 @@
 		"SLATE_NOTE_1": "やあ、寝ぼすけ！目が覚めたら村で私を探してくれ、話がある。\n <![CDATA[<i>]]>-Slate<![CDATA[</i>]]>",
 
 		// Solanum response
-		"SOLANUM_WALL_1": "SOLANUM: This encounter feels <![CDATA[<i>]]>VERY special<![CDATA[</i>]]>.",
-		"SOLANUM_WALL_2": "SOLANUM: I am not sure of the outcome, but allow us try this: Take the stone that looks like my mask to the place where I am needed.",
-		"SOLANUM_WALL_3": "SOLANUM: With that done, I will do my best. Farewell.",
+		"SOLANUM_WALL_1": "SOLANUM:この出会いは<![CDATA[<i>]]>とっても特別<![CDATA[</i>]]>だって感じてる。",
+		"SOLANUM_WALL_2": "SOLANUM:うまくいくか確信は持てないけれど、これを試してみてほしい:私のマスクを描いたこの石を、私が必要とされてる場所へ持っていってみて。",
+		"SOLANUM_WALL_3": "SOLANUM:そうしてくれたら、できる限りのことはする。健闘を祈るわ。",
 
 
 
 		// Solanum start
-		"SOLANUM_START_1": "...",
-		"SOLANUM_START_2": "Hey! Can you read this please? I can drop it for you to get a better view.",
-		"SOLANUM_START_3": "I know you can't understand me. I wonder if there's anyone who would be able to write a message you could understand...",
+		"SOLANUM_START_1": "…",
+		"SOLANUM_START_2": "やあ！これが読めるかい？見やすいようあなたの近くに置いてみるよ。",
+		"SOLANUM_START_3": "あなたが私の言葉を理解できないのは知ってる。どこかにあなたがわかるメッセージを書ける人物はいないだろうか…。",
 
 		// Toys management
 		"SHIP_TOY_1": "Hmm... ",
