@@ -714,13 +714,13 @@
 		"SOLANUM_START_3": "あなたが私の言葉を理解できないのは知ってる。どこかにあなたがわかるメッセージを書ける人物はいないだろうか…。",
 
 		// Toys management
-		"SHIP_TOY_1": "Hmm... ",
-		"SHIP_TOY_2": "Put seed toy.",
-		"SHIP_TOY_3": "Put snowian toy.",
-		"SHIP_TOY_4": "Remove toy.",
-		"SHIP_TOY_5": "Nevermind.",
+		"SHIP_TOY_1": "ふむ…",
+		"SHIP_TOY_2": "種のおもちゃを置く。",
+		"SHIP_TOY_3": "雪だるまのおもちゃを置く。",
+		"SHIP_TOY_4": "おもちゃを片付ける。",
+		"SHIP_TOY_5": "何もしない。",
 
-		"CAIRN_1": "<![CDATA[<color=orange>Ash Twin Project</color>]]> experimental interplanetary data transmission. \n(10m)",
+		"CAIRN_1": "<![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>による実験的な惑星間データ通信 \n(10m)",
 
 		"RECORDER_1": "OENO: Coleus, could you remind me what the idea you are working on is exactly?",
 		"RECORDER_2": "COLEUS: Yes, of course. Imagine the Sun Station works as intended, why shouldn't we have a remote location to monitor it and the <![CDATA[<color=orange>Ash Twin Project</color>]]> from?",
