@@ -722,12 +722,12 @@
 
 		"CAIRN_1": "<![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>による実験的な惑星間データ通信 \n(10m)",
 
-		"RECORDER_1": "OENO: Coleus, could you remind me what the idea you are working on is exactly?",
-		"RECORDER_2": "COLEUS: Yes, of course. Imagine the Sun Station works as intended, why shouldn't we have a remote location to monitor it and the <![CDATA[<color=orange>Ash Twin Project</color>]]> from?",
-		"RECORDER_3": "OENO: I see what you mean. Only a select number of Nomai would fit within the core of Ash Twin to monitor the project, and we have a limited number of statues to link with. I believe the <![CDATA[<color=orange>Timber Hearth</color>]]> mines could serve as a secondary safe location.",
-		"RECORDER_4": "COLEUS: Exactly. If my hypothesis is correct, these wires will be capable of transmiting the memories of multiple individuals to and from the <![CDATA[<color=orange>Ash Twin Project</color>]]> in a limited capacity compared to the statues. I believe that the data transmission <![CDATA[<i>]]>will only be affective within a radius of 10 to 20 meters to the device.<![CDATA[</i>]]>",
-		"RECORDER_5": "YARROW: We don't have the time or resources for additional experiments, Coleus. We will only be able to tell for sure if it has worked after the <![CDATA[<color=orange>Ash Twin Project</color>]]> has already succeeded. Please don't waste any of your time on it right now.",
-		"RECORDER_6": "COLEUS: You're probably right. <![CDATA[<i>]]>We should focus more on our main mission.<![CDATA[</i>]]> There will be plenty of time for me to improve this technology after the <![CDATA[<color=orange>Ash Twin Project</color>]]> has completed it's mission.",
+		"RECORDER_1": "OENO:Coleus、君が取り組んでるアイデアを正確に教えてくれないか？",
+		"RECORDER_2": "COLEUS:ああ、いいよ。太陽ステーションが意図したとおりに動作してるところを想像してほしい。すると、太陽ステーションと<![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>の双方を監視できる遠隔地が必要にならないか？",
+		"RECORDER_3": "OENO:君の言いたいことはわかった。プロジェクトを監視するために灰の双子星のコア内部で待機できるのは選ばれた少数のNomaiだけだし、それにリンクできる彫像の数だって限られてる。俺は<![CDATA[<color=orange>木の炉辺</color>]]>の鉱山が二次的な安全地帯として使えるんじゃないかと思う。",
+		"RECORDER_4": "COLEUS:そのとおりだ！僕の仮説が正しければ、このワイヤーは彫像と比べて限られた容量で、複数の個人の記憶を<![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>との間で送受信できるだろう。このデータ送受信は<![CDATA[<i>]]>そのワイヤーから半径10から20メートル以内でのみ影響するはずだ。<![CDATA[</i>]]>",
+		"RECORDER_5": "YARROW:我々には追加の実験を行う時間も資源も存在しない、Coleus。<![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>が成功した後でのみ、そのワイヤー実験も成功していたかどうかがわかることになる。今は時間を無駄にしないでほしい。",
+		"RECORDER_6": "COLEUS:あなたはおそらく正しいだろう。<![CDATA[<i>]]>我々は最も重要なミッションに集中すべきだ。<![CDATA[</i>]]><![CDATA[<color=orange>灰の双子星プロジェクト</color>]]>がそのミッションを完遂した後、この技術を改善する時間はいくらでもあるだろうから。",
 
 		"HAL_STONE_TEXT": "<![CDATA[<size=50>]]><![CDATA[<color=red>ERROR:</color>]]>Dear SoLaNum_, I|m invI_tinG youUu to \n T!mBerHeartH Vill@ge to celLebrAte Christmas!!!.<![CDATA[</size>]]>",
 
