@@ -765,21 +765,21 @@
 	*/
 
 		// TRAVELERS SECOND LOOP AT THE TREE -> Aware of time loop!
-		"CHERT_ONE_LOOP_START": "Seems you were right after all about the time loop. The sun exploded and I found myself here again at the tree.",
-		"CHERT_ONE_LOOP_RESPONSE": "I told you!",
-		"CHERT_ONE_LOOP_DONE": "You did. What a unique opportunity to study a supernova up close! But why am I only aware of it now? It's quite strange.",
+		"CHERT_ONE_LOOP_START": "タイムループについて、どうやらお前が正しかったようだ。太陽が爆発して、それから気がつくと私はこの木のところに再びいたんだ。",
+		"CHERT_ONE_LOOP_RESPONSE": "そう言ったはずだ！",
+		"CHERT_ONE_LOOP_DONE": "ああ。超新星を間近で研究できるまたとない機会だ！だがどうして今になって私も気づいたんだ？とても奇妙だ。",
 
-		"ESKER_ONE_LOOP_START": "Merry Christmas hatchling!",
-		"ESKER_ONE_LOOP_RESPONSE": "Hey Esker, you notice anything out of the ordinary?",
-		"ESKER_ONE_LOOP_DONE": "No, why? Sorry, I've been too busy talking to the other villagers to pay attention to anything else!",
+		"ESKER_ONE_LOOP_START": "メリークリスマス、ひよっ子！",
+		"ESKER_ONE_LOOP_RESPONSE": "やあEsker、何か変わったことは起きてないか？",
+		"ESKER_ONE_LOOP_DONE": "ないけど、どうして？いや、すまない、村人たちと話すのに忙しくて他のことに気を配る余裕がないんだ！",
 
-		"FELDSPAR_ONE_LOOP_START": "What was that big flash in the sky earlier? Seems like a call to adventure.",
-		"FELDSPAR_ONE_LOOP_RESPONSE": "Don't worry about it. We can deal with that after Christmas.",
-		"FELDSPAR_ONE_LOOP_DONE": "Yes you're right, there will always be more time, right?",
+		"FELDSPAR_ONE_LOOP_START": "先ほど空に現れた大きな閃光は一体なんなんだ？まるで新たな冒険への呼びかけのようだ。",
+		"FELDSPAR_ONE_LOOP_RESPONSE": "心配しないで。クリスマスの後に調査できるから。",
+		"FELDSPAR_ONE_LOOP_DONE": "ああ、お前は正しいさ。いつだって時間はたっぷりあるから、そういうことなんだろう？",
 
-		"RIEBECK_ONE_LOOP_START": "DID THE SUN EXPLODE? WHAT WAS THAT!",
-		"RIEBECK_ONE_LOOP_RESPONSE": "Yes it did, but try not to worry about it, we're safe here.",
-		"RIEBECK_ONE_LOOP_DONE": "I find that hard to believe! But if the sun exploded and we're still alive then I guess you're right. I think."
+		"RIEBECK_ONE_LOOP_START": "<![CDATA[<size=57>]]>太陽が爆発した？あれはなんなんだ！<![CDATA[</size>]]>",
+		"RIEBECK_ONE_LOOP_RESPONSE": "ああ、そうだな。でも心配しないでくれ、ここは安全だから。",
+		"RIEBECK_ONE_LOOP_DONE": "信じられない！でも、太陽が爆発しても私らが生きているのだとしたら、お前が言うことは正しいのだろう。多分。"
 
 
 
