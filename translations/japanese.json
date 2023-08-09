@@ -789,16 +789,16 @@
 
 	"UIDictionary": {
 
-		"MOD_POPUP": "Thanks for installing Christmas Story! This mod contains major spoilers for classic Outer Wilds and the DLC! We recommend for you to create a new profile for a better experience.",
-		"ENDING_TEXT_5": "THE END \n \n 5/8 travelers done",
-		"ENDING_TEXT_6": "THE END \n \n 6/8 travelers done",
-		"ENDING_TEXT_7": "THE END \n \n 7/8 travelers done",
-		"ENDING_TEXT_8": "THE END \n \n 8/8 travelers done",
-		"TOTEM_CODE": "Code:",
-		"RADIO_PROMT": "Listen to the radio",
-		"SHIP_TOY_PROMT": "Manage your dashboard toys",
-		"SHIP_TOY_NOTIFICATION": "NEW SHIP TOY ADDED",
-		"INVITE_STONE_ITEM": "<![CDATA[<color=orange>Hal's</color>]]> Invite Stone"
+		"MOD_POPUP": "Christmas Storyをインストールしていただきありがとうございます！このMODにはOuter Wilds本編およびDLCの重大なネタバレが含まれています！より良い体験を得るために、新しいプロフィールを作ってプレイすることを推奨します。",
+		"ENDING_TEXT_5": "THE END \n \n 5/8 の旅人たちをコンプリート",
+		"ENDING_TEXT_6": "THE END \n \n 6/8 の旅人たちをコンプリート",
+		"ENDING_TEXT_7": "THE END \n \n 7/8 の旅人たちをコンプリート",
+		"ENDING_TEXT_8": "THE END \n \n 8/8 の旅人たちをコンプリート",
+		"TOTEM_CODE": "コード:",
+		"RADIO_PROMT": "ラジオを聞く",
+		"SHIP_TOY_PROMT": "ダッシュボードのおもちゃを管理する",
+		"SHIP_TOY_NOTIFICATION": "探査艇内おもちゃ追加完了",
+		"INVITE_STONE_ITEM": "<![CDATA[<color=orange>Hal製</color>]]>の招待用ストーン"
 
 	},
 	"ShipLogDictionary": {
